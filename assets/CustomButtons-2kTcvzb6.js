@@ -1,0 +1,1 @@
+import{j as c,e as d}from"./index-BcecFl1Z.js";const h=({children:l,color:t="primary",variant:e="contained",size:r="medium",onClick:o,onChange:s,startIcon:i,endIcon:n,title:u,disabled:a=!1,sx:m={},...p})=>c.jsx(d,{color:t,variant:e,size:r,onClick:o,onChange:s,startIcon:i,endIcon:n,disabled:a,disableTouchRipple:!0,sx:m,...p,children:u});export{h as C};
